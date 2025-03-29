@@ -6,6 +6,10 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
+
 //NEW BRANCH
+
+//THIS COMMIT IS FROM FEATURE BRANCH - LETS ROCK
+
     }
 }
